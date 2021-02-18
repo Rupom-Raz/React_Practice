@@ -1,0 +1,36 @@
+* {
+  text-align: center;
+  font-family: fira code;
+  font-weight: 700;
+  overflow-x: hidden;
+}
+.container {
+  width: 100%;
+  margin: 0 auto;
+  background-color: #c5d86d;
+  padding: 20px;
+  min-height: 100px;
+  margin-top: 25px;
+  border: 2px solid black;
+}
+.bio {
+  margin-bottom: 25px;
+}
+.skill {
+  margin-bottom: 20px;
+}
+.skill ul li {
+  list-style-type: none;
+  display: inline-block;
+}
+
+.social_link ul li {
+  list-style-type: none;
+  display: inline-block;
+}
+.social_link ul li a {
+  text-decoration: none;
+}
+.social_link ul li a:hover {
+  color: #fff;
+}
