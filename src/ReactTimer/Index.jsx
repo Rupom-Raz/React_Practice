@@ -65,7 +65,6 @@ export default class Index extends Component {
             className="btn"
             disabled={this.state.count === 0 ? true : false}
           >
-            
             -
           </button>
         </div>
